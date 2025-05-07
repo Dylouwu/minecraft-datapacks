@@ -1,0 +1,1 @@
+execute as @e[type=marker,tag=betterfurnace.custom_block] at @s run function betterfurnace:furnace
